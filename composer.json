@@ -1,0 +1,19 @@
+{
+    "name": "oleg251298/sms-club",
+    "description": "SmsClub intagration",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "o251298",
+            "email": "o251298@gmail.com"
+        }
+    ],
+    "require": {},
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "library\\Smsclub\\": "src/"
+        }
+    }
+}
